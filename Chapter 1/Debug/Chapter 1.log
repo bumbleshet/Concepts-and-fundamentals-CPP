@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Encapsulation.cpp
+c:\users\user\documents\data structure and algorithms in c++\chapter 1\chapter 1\encapsulation.cpp(40): warning C4101: 'floatObject': unreferenced local variable
+c:\users\user\documents\data structure and algorithms in c++\chapter 1\chapter 1\encapsulation.cpp(39): warning C4101: 'intObject': unreferenced local variable
+c:\users\user\documents\data structure and algorithms in c++\chapter 1\chapter 1\encapsulation.cpp(41): warning C4101: 'intObject1': unreferenced local variable
+  Chapter 1.vcxproj -> C:\Users\USer\Documents\data structure and algorithms in c++\Chapter 1\Debug\Chapter 1.exe

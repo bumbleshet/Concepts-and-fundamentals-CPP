@@ -1,0 +1,22 @@
+c++ is not pure ool. c++ is more ojbect oriented than c or pascal, which have no object oriented feautres. or ada. which supports 
+classes (packages) and instances however C++ is less object oriented than pure ool c++ doesnt enofre oop apporach. 
+
+friend functions-relaxation to the rule of information hiding
+private- cannot be accessed by anyone
+public-accessible to every user
+
+private information can be access if the class lists th euser fumctions as its friends
+
+example
+
+class C{
+	int n;
+	friend int f();
+}ob;
+
+function f() has direct access to variable n belonging to the class C, as in
+int f(){
+return 10*ob.n} \\this could be considered a violation to information hiding principle however class c grants the right to make some what is private and inaccessible 
+to others thus because the class has control over what to consider a friend function 
+this mechanism , admittedly, is used to facilitate programming and speed up execution, because rewriting code without using frined functions can be major problem
+
